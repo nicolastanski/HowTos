@@ -1,0 +1,12 @@
+# vi /et/selinux/config
+SELINUX=disabled
+
+# reboot
+
+# yum install -y wget vim
+
+# yum update
+
+# cd /usr/src
+# wget http://downloads.sourceforge.net/project/magnusbilling/install.sh
+# chmod +x install.sh
